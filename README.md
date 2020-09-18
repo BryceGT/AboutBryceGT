@@ -1,2 +1,0 @@
-# AboutBryceGT
-Assignment1
